@@ -14,3 +14,9 @@ http://www.codeskulptor.org/#user46_nYW5Zlo0vS_71.py
 Tic-Tac-Toe with Minimax Trees:
 http://www.codeskulptor.org/#user46_68oHqquC78_40.py
 <br/>
+
+## Technologies
+Python, Codeskulptor.org
+
+## Licensing
+MIT
