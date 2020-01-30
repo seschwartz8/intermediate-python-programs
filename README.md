@@ -1,8 +1,12 @@
 # Intermediate Python Programs
 
 ## Created by Sarah "Sasa" Schwartz
+
+## Description
 Python programs and games that utilize more advanced principles of data structures, algorithms, and recursion. Created for Rice University's Fundamentals of Computing specialization on Coursera.
 <br/><br/>
+
+## Setup
 Programs are available to test on Codeskulptor at the following links: 
 <br/>
 Zombie Apocalypse:
